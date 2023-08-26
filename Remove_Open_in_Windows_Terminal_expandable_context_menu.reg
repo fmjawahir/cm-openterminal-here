@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+; Created by: github.com/fmjawahir
+; Created on: August 7, 2023
+
+[-HKEY_CLASSES_ROOT\Directory\shell\cmOpenTerminal]
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\cmOpenTerminal]
