@@ -20,7 +20,7 @@ That is it. From now on, whenever you Right-click in a directory or folder, you 
 
 ![screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaDzoc8poRL66_hnhV25rtz6mzBXLsCdkHFJx1MoHW83I7mUMgI21xT5DFXCN9-aEkz3Og8RFGWuyjMJZH6z9UcwcB2wbeXaBx4ZPQa9elaGAqnrZTKdrPP1KD46Ob2caTPnHO9g4qnHVJiPw1nFwNNCM6p4yBhJUSANTUPQF_D7epWuejStkJGXQ2HPfL/s1920/screenshot-cmOpenwindowstermhere.jpg)
 
-## (Optional) Add icons to the Option
+## (Optional) Add icon to the Option
 
 Open the Run dialog box by pressing Win + R shortcut. In the blank field, copy and paste the below path and press Enter.
 
